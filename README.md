@@ -1,1 +1,1 @@
-Hello everyone today i share OpenLicense project 
+Hello everyone today i share OpenLicense project in python language
